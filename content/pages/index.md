@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Beat traffic with FADE
+    title: ''
     subtitle: Beat Traffic With FADE
     text: >
       This is the HeroSection component. You can visually edit this component &
