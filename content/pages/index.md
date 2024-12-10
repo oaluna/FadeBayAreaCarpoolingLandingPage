@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: ''
+    title: Fade
     subtitle: Beat Traffic With FADE
     text: >
       Reduce commute time and traffic congestion, save money, and grow your
